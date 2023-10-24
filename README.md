@@ -5,6 +5,6 @@ I'm largely familiar with Object-Oriented Languages, with Java and C# being my m
 - 💞️ I’m looking to collaborate with businesses, largely just called 'work' (I'm looking for a job, in any language really, I'm quite a fast learner)
 - 📫 How to reach me, if you need to:
 Email: sulibajwa@gmail.com  
-Discord: Nexiimil
+Discord: Nexiimil  
 LinkedIn: https://www.linkedin.com/in/sulaimaan-bajwa-73b280220/
 
